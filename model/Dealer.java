@@ -5,14 +5,14 @@ import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
 import jakarta.persistence.Id;
 
-@Entity
+@Entityeal
 public class Dealer {
 
 	public Dealer() {}
 	@Id
 	@GeneratedValue(strategy=GenerationType.IDENTITY)
-	private Long deal_Id;
-	private String deal_Name;
+	private Long cost_Id;
+	private String cost_Name;
 	private String store;
 	private String contact;
 	private String location;
