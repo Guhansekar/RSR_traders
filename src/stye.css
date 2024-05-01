@@ -1,0 +1,70 @@
+#bbb{
+    position:absolute;
+    left: 85%;
+    top:12%;
+    width: 10vw;
+    height: 40px;
+    font-size: 20px;
+    padding: 5px;
+    padding-right: 8px;
+    font-weight: bold;
+    
+    box-shadow: 2px 2px 5px 3px rgba(137, 30, 190, 0.734);
+    
+}
+.container1{
+    margin-top: 2%;
+    margin-left: 5%;
+    margin-right:5%;
+    font-weight: bold;font-size: 20px;
+    
+}
+#hhh{
+    display: inline;
+    padding-left: 3%;
+    padding-right: 3%;
+    border-radius: 30px;
+   margin-left: 40%;
+   font-size: 50px;
+   color: rgb(33, 9, 75);
+   background-color: rgba(212, 183, 240, 0.537);
+   box-shadow: 2px 2px 5px 3px rgba(137, 30, 190, 0.734);
+   
+}
+.mb-3{
+    padding: 2%;
+    margin-top: 1%;
+    margin-left:35% ;
+    width:30vw ;
+    background-color: rgba(212, 183, 240, 0.537);
+    box-shadow: 2px 2px 5px 3px rgba(137, 30, 190, 0.734);
+    border-radius: 30px;
+    
+}
+.add{
+    margin-left: 10%;
+    padding: 5%;
+}
+.inputx{
+    
+    font-size: 20px;
+    width: 90%;
+    height: 6vh;
+    border-radius: 10px;
+    border: none;
+    margin-bottom: 2vh;
+    text-align: center;
+    
+    
+}
+.inputx:hover{
+    box-shadow: 2px 2px 5px 3px rgba(137, 30, 190, 0.734);
+}
+.bottu{
+    width: 8vw;
+    height: 2%;
+    font-weight: bold;
+    margin-left:10% ;
+    margin-top: 5%;
+    font-size: 20px;
+}
